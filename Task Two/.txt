@@ -1,0 +1,21 @@
+What's the difference between null and undefined in javaScript?
+	JavaScript is a client-side scripting language used for web application development. It brings interactivity to a web page.
+		When writing programs in JavaScript, it is necessary to store data. Data is stored in variables. 
+		Each variable has a data type. Two of them are null and undefined. 
+		Difference between Null and Undefined
+			Null is a data type in JavaScript used to assign a non-value to a variable while 
+			undefined is a data type in JavaScript used when a variable is declared but not assigned with a value.
+ 			Value
+			When the variable is assigned to null, the value is null. When the variable is assigned undefined, the value is undefined.
+			Data Type
+			When the variable is assigned null, the data type is an object.	When the variable is assigned undefined, 
+			the data type is considered as undefined.
+
+What is NaN in JavaScript?
+	NaN is a property of the global object. In other words, it is a variable in global scope.
+	NaN property represents "Not-a-Number" value. This property indicates that a value is not a legal number.
+	The NaN property is the same as the Number.Nan property.
+	The syntax for NaN = Number.NaN or isNaN.
+
+You a=can declare a variable by typing let name; What is the value of name?
+	Undefined
