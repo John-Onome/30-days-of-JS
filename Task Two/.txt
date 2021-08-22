@@ -17,5 +17,5 @@ What is NaN in JavaScript?
 	The NaN property is the same as the Number.Nan property.
 	The syntax for NaN = Number.NaN or isNaN.
 
-You a=can declare a variable by typing let name; What is the value of name?
+You can declare a variable by typing let name; What is the value of name?
 	Undefined
